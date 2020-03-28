@@ -1,5 +1,5 @@
 ## Pokémon Card Game
-> Projeto para a disciplina de Paradigmas de Linguaguem de Programação 2019.2
+> Projeto para a disciplina de Paradigmas de Linguaguem de Programação 2019.2 - UFCG
 
 **Descrição:** 
 Pokémon Card Game é um jogo baseado no Pokémon TCG (Trading Card Game), sendo um Jogador Real contra um Bot, disputando batalhas que dependem da sorte e da habilidade dos jogadores em escolher a melhor carta contra a carta do seu oponente.
